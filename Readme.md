@@ -1,1 +1,3 @@
-# This is my portfolio
+# Deployed link
+
+https://zeinebbatyrbekova.github.io/
